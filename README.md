@@ -1,5 +1,7 @@
 # Personnalisation de votre Profil GitHub
 
+Voici un exemple de personnalisation de profil GitHub.
+
 Bienvenue sur mon profil GitHub ! 👋 Vous pouvez également rendre votre profil unique en suivant ces étapes simples.
 
 ## 1. Ajoutez une photo de profil
